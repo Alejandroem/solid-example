@@ -1,3 +1,5 @@
+package Human;
+
 public class Foot {
     private String name;
 

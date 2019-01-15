@@ -1,3 +1,5 @@
+import Human.Human;
+
 public class SolidExample {
 
     public static void main(String args[]){

@@ -1,3 +1,5 @@
+package Human;
+
 public class Human {
 
     private enum Actions {

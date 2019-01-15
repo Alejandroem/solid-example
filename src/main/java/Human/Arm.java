@@ -1,3 +1,5 @@
+package Human;
+
 public class Arm {
     public String name;
 
